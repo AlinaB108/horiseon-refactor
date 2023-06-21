@@ -25,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -62,6 +63,7 @@ header nav ul li {
     background-position: center;
 }
 
+/* Changed .content to main to match it with index.html */
 main {
     width: 75%;
     display: inline-block;
@@ -129,13 +131,15 @@ p {
     font-size: 36px;
 }
 
-.footer {
+/* Changed class .footer to tag footer to match it with index.html */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+/* Changed class .footer to tag footer to match it with index.html */
+footer h2 {
     font-size: 20px;
 }
