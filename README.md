@@ -1,17 +1,13 @@
 # horiseon-refactor
 
 ## Description
-
-
+A marketing agency site with accessibility standarts for better optimization for search engines.
+You can find the site here: https://alinab108.github.io/horiseon-refactor/
 
 ## Usage
 
+![The screenshot of the page] (assets/images/Horiseon main page.png) 
 Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 The used starter code belongs to repository https://github.com/coding-boot-camp/urban-octo-telegram by Xandromus
