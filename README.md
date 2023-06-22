@@ -2,15 +2,24 @@
 
 ## Description
 A marketing agency site with accessibility standarts for better optimization for search engines.
-You can find the site here: https://alinab108.github.io/horiseon-refactor/
+
+To meet website accessibility standards these changes were made:
+<ul>
+  <li>Changed non-semantic HTML elements to semantic HTML elements.</li>
+  <li>Organized elements to follow a logical structure independent of styling and positioning.</li>
+  <li>Added accessible alt attributes to non-decorative images.</li>
+  <li>Changed a heading attribute in footer, so it falls in sequential order with the rest of heading attributes.</li>
+  <li>Added a concise, descriptive title for the website.</li>
+  <li>All links are now functoning correctly.</li>
+</ul>
 
 ## Usage
+You can find the site here: https://alinab108.github.io/horiseon-refactor/
+![The screenshot of the page](assets/images/Horiseon-main-page.png) 
 
-![The screenshot of the page] (assets/images/Horiseon main page.png) 
-Provide instructions and examples for use. Include screenshots as needed.
 ## Credits
 
-The used starter code belongs to repository https://github.com/coding-boot-camp/urban-octo-telegram by Xandromus
+The starter code belongs to UT coding bootcamp https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
 
